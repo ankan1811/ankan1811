@@ -44,6 +44,12 @@
 <img  width="45" height="45" src="https://i.pinimg.com/564x/99/f8/87/99f887833c475448723d3c9ac16c179b.jpg">
  <img align="left" width="100" height="60" src="https://www.ateamindia.com/wp-content/uploads/2019/03/main-qimg-f406db5658b5d0dade4d70a989560439.png">
 <img align="left" width="70" height="70" src="https://www.joinideas.org/wp-content/uploads/2017/06/python-logo.png">
+<br>
+
+
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ankan1811)](https://github.com/ankan1811/github-readme-stats)
 
 [twitter]: https://twitter.com/godspeed1811
 [instagram]: https://instagram.com/alphazero1811
