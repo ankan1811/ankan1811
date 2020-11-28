@@ -49,7 +49,7 @@
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ankan1811)](https://github.com/ankan1811/github-readme-stats)
+[![Ankan Pal's github stats:](https://github-readme-stats.vercel.app/api?username=ankan1811)](https://github.com/ankan1811/github-readme-stats)
 
 [twitter]: https://twitter.com/godspeed1811
 [instagram]: https://instagram.com/alphazero1811
