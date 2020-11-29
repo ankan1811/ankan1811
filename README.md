@@ -52,8 +52,9 @@
 
 
 
-
-[![Ankan Pal's github stats:](https://github-readme-stats.vercel.app/api?username=ankan1811)](https://github.com/ankan1811/github-readme-stats)
+<!-- Commented one is light theme github stats -->
+<!--[![Ankan Pal's github stats:](https://github-readme-stats.vercel.app/api?username=ankan1811)](https://github.com/ankan1811/github-readme-stats)-->
+<img src="https://github-readme-stats.vercel.app/api?username=ankan1811&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 [twitter]: https://twitter.com/godspeed1811
 [instagram]: https://instagram.com/alphazero1811
