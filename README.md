@@ -55,6 +55,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ankan1811&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 [twitter]: https://twitter.com/godspeed1811
-[instagram]: https://instagram.com/alphazero1811
+[instagram]: https://instagram.com/the_arithmetic_progression
 [linkedin]: https://linkedin.com/in/ankanpal
 [facebook]: https://facebook.com/ankan.pal.73
