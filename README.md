@@ -4,7 +4,10 @@
 ## ❓⭐ I'm a Full Stack Web developer,Android  Developer, and Competitive coder!!!
 
 - 🔭 I am pursuing Computer Science and Engineering from Institute of Engineering and Mangement,Kolkata.
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning android development 🤣
+- 👯 I’m looking to collaborate on projects
+- 🤔 I’m looking for help with my project's!
+- 💬 Ask me about my hobbies!😜
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
