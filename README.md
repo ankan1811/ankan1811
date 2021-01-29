@@ -1,12 +1,12 @@
 ### ⭐Hi there, I'm Ankan Pal✅ 👋
 
 
-## ❓⭐ I'm a Full Stack Web developer,Android  Developer, and Competitive coder!!!
+## ❓⭐ I'm a Full Stack Web developer,Android  Developer, and Competitive coder!!!🔥🔥🔥
 
 - 🔭 I am pursuing Computer Science and Engineering from Institute of Engineering and Mangement,Kolkata.
-- 🌱 I’m currently learning android development 🤣
+- 🌱 I’m currently learning android development 🔥
 - 👯 I’m looking to collaborate on projects
-- 🤔 I’m looking for help with my project's!
+- 🤔 I’m looking for help with my projects!
 - 💬 Ask me about my hobbies!😜
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
