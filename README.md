@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with my projects!
 - 💬 Ask me about my hobbies!😜
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Please visit my Linkedin profile to know more about my skills,experience and achievements: ✅
