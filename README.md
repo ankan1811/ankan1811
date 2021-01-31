@@ -10,7 +10,7 @@
 - 💬 Ask me about my hobbies!😜
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to play chess and have played more than 10000 games at Lichess,Chess.com and Chess24.
 
 ### Please visit my Linkedin profile to know more about my skills,experience and achievements: ✅
 [<img align:center alt="codeSTACKr | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
