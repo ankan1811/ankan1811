@@ -2,7 +2,7 @@
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankan1811&label=Views&color=blue&style=plastic" alt="mahakmakharia" /> </p>-->
 
 
-##  ✅⭐ I'm a Full Stack Web developer,Android  Developer, and Competitive coder!!! 🔥
+##  ⚡ ✅ I'm a Full Stack Web developer,Android  Developer, and Competitive coder!!! 🔥
 
 - 🔭 I am pursuing Computer Science and Engineering from Institute of Engineering and Mangement,Kolkata.
 - 🌱 I’m currently learning android development 🔥
