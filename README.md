@@ -5,7 +5,9 @@
 ##  ⚡ ✅ I'm a Full Stack Web developer,Android  Developer, and Competitive coder!!! 🔥
 
 
-<h1 align="center">![](images/Developer.gif) </h1>
+<h1 align="center">  <img src="https://github.com/ankan1811/ankan1811/blob/main/images/Developer.gif" width="80px">
+</h1>
+
 
 
 
