@@ -4,6 +4,8 @@
 
 ##  ⚡ ✅ I'm a Full Stack Web developer,Android  Developer, and Competitive coder!!! 🔥
 
+![](Images/Developer.gif)
+
 - 🔭 I am pursuing Computer Science and Engineering from Institute of Engineering and Mangement,Kolkata.
 - 🌱 I’m currently learning android development 🔥
 - 👯 I’m looking to collaborate on projects
