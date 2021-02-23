@@ -71,6 +71,13 @@
 <code><img height="35" src="https://raw.githubusercontent.com/JetBrains/android/f66ebcf239a05a3f7530f8f57acccf0730c22e77/adt-branding/src/artwork/androidstudio.svg"></code>
 
 
+**Problem Solving:**
+<code><img height="35" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
+
+
 
 
 <br/>
