@@ -94,7 +94,11 @@
   <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankan1811&count_private=true&theme=radical" alt="ankan1811" />-->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankan1811&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankan1811&layout=compact)](https://github.com/ankan1811/github-readme-stats)-->
-<!--![github metrics](https://metrics.lecoq.io/ankan1811)-->
+</br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankan1811&count_private=true&theme=radical" alt="ankan1811" />
+<!--![github metrics](https://github-readme-stats.vercel.app/api?username=ankan1811&&theme=merko&&show_icons=true)
+![github metrics](https://metrics.lecoq.io/ankan1811)-->
+
 
    <!-- Github story in 3D https://skyline.github.com/-->
 <!--<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankan1811&count_private=true&theme=radical" alt="ankan1811" />-->
