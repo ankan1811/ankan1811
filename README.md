@@ -35,7 +35,7 @@
 
 </br>
 
- <img align="right" alt="GIF" img height="250" src="programer.gif" />
+ <img align="right" alt="GIF" img height="250" src="images/programer.gif" />
  
 ### Languages and Tools:  
 
