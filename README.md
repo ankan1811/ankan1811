@@ -35,6 +35,8 @@
 
 </br>
 
+ <img align="right" alt="GIF" img height="250" src="programer.gif" />
+ 
 ### Languages and Tools:  
 
 
