@@ -100,6 +100,10 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankan1811&layout=compact)](https://github.com/ankan1811/github-readme-stats)-->
 </br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankan1811&count_private=true&theme=radical" alt="ankan1811" />
+
+</br>
+</br>
+<img align="center" alt="GIF" img height="600" src="images/githubquote.png" />
 <!--![github metrics](https://github-readme-stats.vercel.app/api?username=ankan1811&&theme=merko&&show_icons=true)
 ![github metrics](https://metrics.lecoq.io/ankan1811)-->
 
