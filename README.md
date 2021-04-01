@@ -2,14 +2,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankan1811&label=Stalker Alert:😜 &color=blue&style=plastic" alt="ankan1811" /> </p>
 
 
+ 
+ 
 ##  ⚡ ✅ I'm a Full Stack Web developer,Android  Developer, and Competitive coder!!! 🔥
 
 
-<h1 align="center">  <img src="https://github.com/ankan1811/ankan1811/blob/main/images/Developer.gif" width="80px">
-</h1>
+<h1 align="center"> <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"  /> </h1>
+
+<!--<h1 align="center">  <img src="https://github.com/ankan1811/ankan1811/blob/main/images/Developer.gif" width="80px">
+</h1> -->
 
 
- <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" align="center"  />
 
 
 - 🔭 I am pursuing Computer Science and Engineering from Institute of Engineering and Mangement,Kolkata.
