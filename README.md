@@ -9,6 +9,7 @@
 </h1>
 
 
+ <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" align="center"  />
 
 
 - 🔭 I am pursuing Computer Science and Engineering from Institute of Engineering and Mangement,Kolkata.
