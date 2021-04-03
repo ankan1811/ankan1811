@@ -106,11 +106,11 @@
 </br>
 
 [![Ankan's github activity graph](https://activity-graph.herokuapp.com/graph?username=ankan1811&theme=xcode)](https://git.io/ankan1811)
-
+<!--
 </br>
 </br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankan1811&count_private=true&theme=radical" alt="ankan1811" />
-
+-->
 </br>
 </br>
 
