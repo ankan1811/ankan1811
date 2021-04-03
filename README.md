@@ -103,6 +103,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankan1811&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankan1811&layout=compact)](https://github.com/ankan1811/github-readme-stats)-->
 </br>
+</br>
+
+[![Ankan's github activity graph](https://activity-graph.herokuapp.com/graph?username=ankan1811&theme=xcode)](https://git.io/ankan1811)
+
+</br>
+</br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankan1811&count_private=true&theme=radical" alt="ankan1811" />
 
 </br>
