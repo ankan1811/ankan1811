@@ -21,6 +21,7 @@
 - 🤔 I’m looking for help with my projects!
 - 💬 Ask me about my hobbies!😜
 - 👯 I’m looking to collaborate with other content creators
+- ✅ I have been invited as a guest speaker in several organisations.
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play chess and have played more than 10000 games at Lichess,Chess.com and Chess24.
 
