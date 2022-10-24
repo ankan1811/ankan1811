@@ -126,7 +126,7 @@
    <!-- Github story in 3D https://skyline.github.com/-->
 <!--<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankan1811&count_private=true&theme=radical" alt="ankan1811" />-->
 
-[twitter]: https://twitter.com/godspeed1811
+[twitter]: https://twitter.com/ankanblitz
 [instagram]: https://instagram.com/the_arithmetic_progression
 [linkedin]: https://linkedin.com/in/ankanpal
 [facebook]: https://facebook.com/ankan.pal.73
