@@ -1,5 +1,5 @@
 ### ⭐Hi there, I'm Ankan Pal✅ 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankan1811&label=Stalker Alert:😜 &color=blue&style=plastic" alt="ankan1811" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankan1811&label=Stalker Alert:👀 &color=blue&style=plastic" alt="ankan1811" /> </p>
 
 
  
