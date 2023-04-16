@@ -115,10 +115,9 @@
 -->
 </br>
 </br>
+<!-- ## A Quotation that always inspires me: ✅ -->
 
-## A Quotation that always inspires me: ✅
-
-<img align="center" alt="GIF" img height="300" src="images/github3.png" />
+<!-- <img align="center" alt="GIF" img height="300" src="images/github3.png" />-->
 <!--![github metrics](https://github-readme-stats.vercel.app/api?username=ankan1811&&theme=merko&&show_icons=true)
 ![github metrics](https://metrics.lecoq.io/ankan1811)-->
 
