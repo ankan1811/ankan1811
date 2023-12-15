@@ -1,10 +1,10 @@
 ### ⭐Hi there, I'm Ankan Pal✅ 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankan1811&label=Stalker Alert:👀 &color=blue&style=plastic" alt="ankan1811" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankan1811&label=Stalker Alert:👀 &color=blue&style=plastic" alt="ankan1811" /> </p>-->
 
 
  
  
-##  ⚡ ✅ I'm a Full Stack Web developer,Android  Developer, and Competitive coder!!! 🔥
+##  ⚡ ✅ I'm a full-time Software Developer and a part-time chess player 🔥
 
 
 <h1 align="center"> <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"  /> </h1>
@@ -15,15 +15,15 @@
 
 
 
-- 🔭 I am pursuing Computer Science and Engineering from Institute of Engineering and Mangement,Kolkata.
-- 🌱 I’m currently learning android development 🔥
+- 🔭 I am pursuing Computer Science and Engineering from the Institute of Engineering and Management, Kolkata.
+- 🌱 I’m currently learning Backend development 🔥
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with my projects!
 - 💬 Ask me about my hobbies!😜
 - 👯 I’m looking to collaborate with other content creators
 - ✅ I have been invited as a guest speaker in several organizations.
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play chess and have played more than 10000 games at Lichess,Chess.com and Chess24.
+- 🥅 2023 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to play chess and have played more than 25000 games at Lichess,Chess.com and Chess24.
 
 ### Please visit my Linkedin profile to know more about my skills,experience and achievements: ✅
 <!--[<img align:center alt="codeSTACKr | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]-->
