@@ -110,12 +110,12 @@
 
 <!-- Chess.com Profile Badge -->
 <a href="https://www.chess.com/member/ankanpal">
-<img src="https://img.shields.io/badge/Chess.com-000000?style=flat-square&logo=chess.com&logoColor=ffffff&label=Chess.com%20Profile" alt="Chess.com"/>
+<img src="https://img.shields.io/badge/Chess.com-81B64A?style=flat-square&logo=chess.com&logoColor=ffffff&label=Chess.com%20Profile" alt="Chess.com"/>
 </a>
 
 <!-- Lichess Profile Badge -->
 <a href="https://lichess.org/@/ankan1811">
-<img src="https://img.shields.io/badge/Lichess-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMC4xOCA5LjI3TDE1LjQ1IDEzLjcxTDE2LjU1IDIwTDEyIDE3LjI3TDcuNDUgMjBMOC41NSAxMy43MUwzLjgyIDkuMjcuMDkgOC4yNkwxMiAyWiIvPjwvc3ZnPg==&logoColor=ffffff&label=Lichess%20Profile" alt="Lichess"/>
+<img src="https://img.shields.io/badge/Lichess-000000?style=flat-square&logo=lichess&logoColor=ffffff&label=Lichess%20Profile" alt="Lichess"/>
 </a>
 
 <!-- Chess Games Badge -->
