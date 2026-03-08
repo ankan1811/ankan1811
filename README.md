@@ -47,6 +47,10 @@
 
 ## 🤖 AI & LLMs
 ![Claude](https://img.shields.io/badge/Claude%20Max-000000?logo=anthropic&logoColor=white)
+![GPT](https://img.shields.io/badge/GPT-412991?logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-000000?logo=google&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-000000?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMC4xOCA5LjI3TDE1LjQ1IDEzLjcxTDE2LjU1IDIwTDEyIDE3LjI3TDcuNDUgMjBMOC41NSAxMy43MUwzLjgyIDkuMjcuMDkgOC4yNkwxMiAyWiIvPjwvc3ZnPg==&logoColor=white)
+![Kimi](https://img.shields.io/badge/Kimi-000000?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMC4xOCA5LjI3TDE1LjQ1IDEzLjcxTDE2LjU1IDIwTDEyIDE3LjI3TDcuNDUgMjBMOC41NSAxMy43MUwzLjgyIDkuMjcuMDkgOC4yNkwxMiAyWiIvPjwvc3ZnPg==&logoColor=white)
 
 ---
 
@@ -76,31 +80,62 @@
 
 ---
 
-# 📊 GitHub Stats
+# 🏙️ 3D GitHub Skyline
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ankan1811&theme=github_dark"/>
+<!-- 3D Skyline Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankan1811&theme=github-dark&hide_border=true&area=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ankan1811&show_icons=true&count_private=true&theme=github_dark&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankan1811&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 GitHub Contributions
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankan1811&theme=github-dark&hide_border=true"/>
+<!-- Contribution Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ankan1811&theme=github-dark"/>
+
 
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 🏆 Live Chess Stats
+
+<p align="center">
+
+<!-- Chess.com Profile Badge -->
+<a href="https://www.chess.com/member/ankanpal">
+<img src="https://img.shields.io/badge/Chess.com-000000?style=flat-square&logo=chess.com&logoColor=ffffff&label=Chess.com%20Profile" alt="Chess.com"/>
+</a>
+
+<!-- Lichess Profile Badge -->
+<a href="https://lichess.org/@/ankan1811">
+<img src="https://img.shields.io/badge/Lichess-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMC4xOCA5LjI3TDE1LjQ1IDEzLjcxTDE2LjU1IDIwTDEyIDE3LjI3TDcuNDUgMjBMOC41NSAxMy43MUwzLjgyIDkuMjcuMDkgOC4yNkwxMiAyWiIvPjwvc3ZnPg==&logoColor=ffffff&label=Lichess%20Profile" alt="Lichess"/>
+</a>
+
+<!-- Chess Games Badge -->
+<img src="https://img.shields.io/badge/30%2C000%2B%20Games-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMC4xOCA5LjI3TDE1LjQ1IDEzLjcxTDE2LjU1IDIwTDEyIDE3LjI3TDcuNDUgMjBMOC41NSAxMy43MUwzLjgyIDkuMjcuMDkgOC4yNkwxMiAyWiIvPjwvc3ZnPg==&logoColor=ffffff&label=Games%20Played" alt="Chess Games"/>
+
+</p>
+
+<p align="center">
+
+<!-- Chess Master Badge -->
+<img src="https://img.shields.io/badge/♟️-Chess%20Master-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMC4xOCA5LjI3TDE1LjQ1IDEzLjcxTDE2LjU1IDIwTDEyIDE3LjI3TDcuNDUgMjBMOC41NSAxMy43MUwzLjgyIDkuMjcuMDkgOC4yNkwxMiAyWiIvPjwvc3ZnPg==&logoColor=ffffff" alt="Chess Master"/>
+
+<!-- Live Stats Badge -->
+<img src="https://img.shields.io/badge/🔥-Live%20Stats-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMC4xOCA5LjI3TDE1LjQ1IDEzLjcxTDE2LjU1IDIwTDEyIDE3LjI3TDcuNDUgMjBMOC41NSAxMy43MUwzLjgyIDkuMjcuMDkgOC4yNkwxMiAyWiIvPjwvc3ZnPg==&logoColor=ffffff" alt="Live Stats"/>
+
+</p>
+
+---
+
+#  Contribution Snake
 
 <p align="center">
 
@@ -108,34 +143,7 @@
 
 </p>
 
----
-
-# ♟ Chess Profiles
-
-<p align="center">
-
-<a href="https://www.chess.com/member/ankanpal">
-<img src="https://avatars.githubusercontent.com/u/577023?s=280&v=4" height="70">
-</a>
-
-<a href="https://lichess.org/@/ankan1811">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Lichess_logo_2019.png" height="60">
-</a>
-
-</p>
-
-Played **30,000+ games** across Chess.com and Lichess ♟
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ankan1811"/>
-</p>
-
-
----
+----
 
 # 🌐 Connect With Me
 
