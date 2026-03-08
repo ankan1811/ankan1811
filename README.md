@@ -131,10 +131,9 @@ Played **30,000+ games** across Chess.com and Lichess ♟
 # 🏆 GitHub Achievements
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ankan1811&theme=darkhub&no-frame=true&row=1&column=6"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=ankan1811"/>
 </p>
+
 
 ---
 
