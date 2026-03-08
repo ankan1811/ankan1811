@@ -3,13 +3,13 @@
    <p align="top"> <img src="https://komarev.com/ghpvc/?username=ankan1811&label=Profile%20views&color=36363b&style=flat" alt="ankan1811" /></p>
   </tr>
 
-- 🔭 I am a Backend Software Engineer
+- 🔭 I am a Full Stack Software Engineer
 - 🌱 Delved deep into various backend technologies 🔥
 - 💬 Ask me about my hobbies!😜
 - 👯 I’m looking to collaborate with other content creators
 - ✅ I have been invited as a speaker in several organizations.
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play chess and have played more than 25000 games at Lichess and Chess.com .
+- 🥅 2026 Goals: Ship at the speed of light 🔥
+- ⚡ Fun fact: I love to play chess and have played more than 30000 games at Lichess and Chess.com!
 
 ### My expertise encompasses:
 
