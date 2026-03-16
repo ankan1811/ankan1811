@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋 I'm Ankan</h1>
 
+
+<p align="center">
+  <a href="https://ankanpal.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ankanpal.com-00ADB5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;Backend+Systems+Builder;AI+%2F+LLM+Explorer;30k%2B+Chess+Games+Played+♟️;Ship+at+the+Speed+of+Light+🚀"/>
 </p>
